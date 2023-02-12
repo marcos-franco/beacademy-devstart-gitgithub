@@ -16,7 +16,7 @@ Introdução ao Git e Github; Git-Primeiros Passos-Instalação; Git-Configura
 ### Status do Projeto:
 100% Concluído
 
-### Autor:
+### Autor: Professor Regis Santos
 Projeto desenvolvido por [Marcos Franco](https://github.com/marcos-franco/beacademy-devstart-gitgithub)
 
 ### Contatos:
